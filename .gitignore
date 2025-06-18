@@ -1,0 +1,6 @@
+
+# Ignore Visual Studio Code settings
+.vscode/
+# Ignore Node.js dependencies
+node_modules/
+# Ignore build output
